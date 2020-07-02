@@ -9,3 +9,6 @@
 [4. Kết hợp Prometheus với Grafana](https://github.com/hocchudong/ghichep-prometheus/blob/master/4.Ket_hop_Prometheus_va_Grafana.md)
 
 [5. Thiết lập cảnh báo cho Prometheus](https://github.com/hocchudong/ghichep-prometheus/blob/master/5.Thiet_lap_canh_bao.md)
+
+[6. Cấu hình service discovery - auto monitor targets](./6.Config_prometheus_service_discovery.md)
+
